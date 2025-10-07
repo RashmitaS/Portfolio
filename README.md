@@ -15,26 +15,26 @@ Having led and collaborated on numerous remote projects, I’m comfortable worki
 
 ## 🚀 Technical Expertise
 **Languages & Frameworks:**  
-C#, .NET Framework, .NET Core, Delphi, ASP.NET, ADO.NET, LINQ, Entity Framework  
+C#, .NET Framework, Delphi, ASP.NET, ADO.NET
 
 **Database & Backend:**  
-MS SQL Server, MySQL, Stored Procedures, Functions, Views, Triggers, Performance Optimization  
+MS SQL Server, Stored Procedures, Functions, Views, Triggers, Performance Optimization  
 
 **Web & API Development:**  
 REST APIs, JSON, XML, Authentication, Third-party API Integrations  
 
 **Tools & Environment:**  
-Visual Studio, Git, SSMS, Azure Data Studio, Postman, Jira  
+Visual Studio, Git, SSMS, Postman  
 
 **Front-End (Exposure):**  
-HTML, CSS, JavaScript, Bootstrap  
+HTML, CSS, JavaScript  
 
 ---
 
 ## 🧩 Highlighted Projects
 
 ### 1. Human Resource Management System (HRMS)
-**Tech Stack:** .NET Framework, C#, SQL Server  
+**Tech Stack:** Delphi, C#, SQL Server  
 - Designed and developed a complete HRMS platform covering recruitment, payroll, attendance, and performance modules.  
 - Built reusable APIs for integration with external accounting systems.  
 - Improved reporting efficiency by 40% through optimized SQL procedures.  
@@ -42,7 +42,7 @@ HTML, CSS, JavaScript, Bootstrap
 ---
 
 ### 2. Asset Management System (AMS)
-**Tech Stack:** .NET, SQL Server, REST API  
+**Tech Stack:** Delphi, SQL Server, REST API  
 - Created centralized asset tracking and depreciation reporting modules.  
 - Integrated REST APIs to exchange data across financial systems.  
 - Implemented audit logs for security and compliance tracking.  
@@ -50,7 +50,7 @@ HTML, CSS, JavaScript, Bootstrap
 ---
 
 ### 3. CIB & GOAML Regulatory Reporting
-**Tech Stack:** .NET, SQL Server, SSIS  
+**Tech Stack:** Delphi, SQL Server, SSIS  
 - Engineered automation workflows for compliance reporting to the central bank.  
 - Ensured 100% accuracy through data validation and transformation pipelines.  
 - Enabled seamless data export via web services and APIs.  
@@ -83,17 +83,17 @@ HTML, CSS, JavaScript, Bootstrap
 
 ## 📚 Continuous Learning
 - Exploring modern .NET Core practices, microservices, and cloud deployment models.  
-- Upskilling in **Azure**, **Power BI**, and **data analytics** to expand solution capabilities.  
+- Upskilling in **Python**, and **data analytics** to expand solution capabilities.  
 
 ---
 
 ## 📞 Contact
-📧 **Email:** your.email@example.com  
+📧 **Email:** rashmita0216@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/rashmita-shrestha](https://linkedin.com/in/rashmita-shrestha)  
-💼 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+💼 **GitHub:** [https://github.com/RashmitaS/Portfolio.git)  
 📄 **Resume (PDF):** [Download Here](link-to-your-resume.pdf)  
 
 ---
 
-⭐ *I’m eager to contribute my .NET expertise to INTELITY’s high-end software projects — building innovative, performance-driven solutions that elevate the hospitality industry.*
+
 
