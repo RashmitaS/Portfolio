@@ -1,5 +1,5 @@
 # 👩‍💻 Rashmita Shrestha  
-### .NET Developer | SQL Expert | Remote Software Engineer  
+### .NET Developer | SQL Expert | Delphi Developer | Remote Software Engineer  
 
 📍 Based in Nepal | 💼 18+ Years in Software Development | 🌐 Remote-Ready  
 
@@ -7,7 +7,7 @@
 
 ## 🧭 About Me
 I am a passionate **.NET and SQL Developer** with over **18 years of hands-on experience** in designing, developing, and optimizing enterprise-grade software solutions.  
-My expertise lies in building **robust, data-driven applications** using **C#, .NET Framework, and SQL Server**, complemented by experience in **API integrations**, **reporting systems**, and **data infrastructure**.
+My expertise lies in building **robust, data-driven applications** using **C#, .NET Framework, Delphi, and SQL Server**, complemented by experience in **API integrations**, **reporting systems**, and **data infrastructure**.
 
 Having led and collaborated on numerous remote projects, I’m comfortable working across time zones and agile environments — delivering **high-quality, maintainable code** with strong attention to detail and performance.
 
@@ -58,7 +58,7 @@ HTML, CSS, JavaScript
 ---
 
 ### 4. API Integration Project
-**Tech Stack:** .NET Core, SQL Server, REST APIs  
+**Tech Stack:** .NET Framework, SQL Server, REST APIs  
 - Developed and deployed APIs to connect HR, finance, and external regulatory systems.  
 - Focused on security, error handling, and scalability for real-time data sharing.  
 
