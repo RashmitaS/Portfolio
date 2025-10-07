@@ -1,80 +1,99 @@
-# 🌐 Rashmita Shrestha  
-### Data Engineer | Data Strategy Consultant
+# 👩‍💻 Rashmita Shrestha  
+### .NET Developer | SQL Expert | Remote Software Engineer  
+
+📍 Based in Nepal | 💼 18+ Years in Software Development | 🌐 Remote-Ready  
 
 ---
 
-## 👋 About Me
-I am a seasoned **Data Engineer and SQL Developer** with 18 years of experience in **database design, performance optimization, and data infrastructure development**.  
-My background spans **HRMS, Asset Management Systems, Regulatory Reporting (CIB, GOAML)**, and **API-based data integration**.  
+## 🧭 About Me
+I am a passionate **.NET and SQL Developer** with over **18 years of hands-on experience** in designing, developing, and optimizing enterprise-grade software solutions.  
+My expertise lies in building **robust, data-driven applications** using **C#, .NET Framework/Core, and SQL Server**, complemented by experience in **API integrations**, **reporting systems**, and **data infrastructure**.
 
-I specialize in building **scalable, reliable, and insight-driven data systems** that power business decisions and digital transformation.
-
----
-
-## 🚀 Featured Projects
-
-### 🧩 Human Resource Management System (HRMS)
-**Role:** Lead Developer  
-**Tech Stack:** MS SQL Server, Delphi, .NET  
-- Designed and implemented full HRMS database architecture.  
-- Optimized payroll and attendance workflows, reducing report generation time by 40%.  
-- Integrated analytics dashboards for workforce insights.
+Having led and collaborated on numerous remote projects, I’m comfortable working across time zones and agile environments — delivering **high-quality, maintainable code** with strong attention to detail and performance.
 
 ---
 
-### 🗂 Asset Management System (AMS)
-**Role:** SQL Developer  
-**Tech Stack:** SQL Server, .NET  
-- Developed centralized asset tracking and depreciation modules.  
-- Automated monthly reconciliation processes to ensure reporting accuracy.
+## 🚀 Technical Expertise
+**Languages & Frameworks:**  
+C#, .NET Framework, .NET Core, Delphi, ASP.NET, ADO.NET, LINQ, Entity Framework  
+
+**Database & Backend:**  
+MS SQL Server, MySQL, Stored Procedures, Functions, Views, Triggers, Performance Optimization  
+
+**Web & API Development:**  
+REST APIs, JSON, XML, Authentication, Third-party API Integrations  
+
+**Tools & Environment:**  
+Visual Studio, Git, SSMS, Azure Data Studio, Postman, Jira  
+
+**Front-End (Exposure):**  
+HTML, CSS, JavaScript, Bootstrap  
 
 ---
 
-### 📊 CIB & GOAML Reporting Modules
-**Role:** Data Engineer  
-**Tech Stack:** SQL Server, SSIS, API Integration  
-- Built ETL pipelines for automated compliance data reporting.  
-- Achieved 100% accuracy and consistency in regulatory data submissions.
+## 🧩 Highlighted Projects
+
+### 1. Human Resource Management System (HRMS)
+**Tech Stack:** .NET Framework, C#, SQL Server  
+- Designed and developed a complete HRMS platform covering recruitment, payroll, attendance, and performance modules.  
+- Built reusable APIs for integration with external accounting systems.  
+- Improved reporting efficiency by 40% through optimized SQL procedures.  
 
 ---
 
-### ⚙️ Data Infrastructure Optimization
-**Role:** Data Strategy Consultant  
-**Tech Stack:** MS SQL Server  
-- Conducted query performance audit across production systems.  
-- Reduced average query execution time by 60% through indexing and normalization.  
+### 2. Asset Management System (AMS)
+**Tech Stack:** .NET, SQL Server, REST API  
+- Created centralized asset tracking and depreciation reporting modules.  
+- Integrated REST APIs to exchange data across financial systems.  
+- Implemented audit logs for security and compliance tracking.  
 
 ---
 
-### 🔗 API Development for Data Exchange
-**Role:** Integration Developer  
-**Tech Stack:** REST API, SQL Server, .NET  
-- Designed secure APIs for real-time data sharing between HRMS and banking systems.  
-- Enhanced interoperability and minimized manual data handling.
+### 3. CIB & GOAML Regulatory Reporting
+**Tech Stack:** .NET, SQL Server, SSIS  
+- Engineered automation workflows for compliance reporting to the central bank.  
+- Ensured 100% accuracy through data validation and transformation pipelines.  
+- Enabled seamless data export via web services and APIs.  
 
 ---
 
-## 🧠 Technical Expertise
-**Databases:** MS SQL Server, MySQL, Oracle  
-**Languages:** SQL, Delphi, C#, Python  
-**Tools:** SSIS, SSRS, Power BI, Git, Azure Data Studio  
-**Concepts:** Data Modeling, ETL, Data Quality, Data Strategy, API Integration, Performance Tuning
+### 4. API Integration Project
+**Tech Stack:** .NET Core, SQL Server, REST APIs  
+- Developed and deployed APIs to connect HR, finance, and external regulatory systems.  
+- Focused on security, error handling, and scalability for real-time data sharing.  
 
 ---
 
-## 🎓 Certifications & Learning
-- Microsoft Certified: SQL Server Fundamentals *(in progress)*  
-- Data Engineering Professional Certificate *(planned)*  
-- Ongoing learning in advanced SQL, ETL automation, and Azure Data.
+## 💡 Strengths & Work Approach
+- Strong analytical thinking and problem-solving mindset.  
+- Capable of **owning projects end-to-end**, from design to deployment.  
+- Committed to **clean, maintainable, and testable code**.  
+- Excellent communication skills for client and cross-functional collaboration.  
+- Adaptable to **remote work**, agile sprints, and collaborative team environments.  
 
 ---
 
-## 📄 Resume & Contact
+## 🎯 Career Highlights
+- 18 years of experience delivering **enterprise-grade solutions** in banking, HR, and asset management domains.  
+- Expertise in **SQL optimization**, resulting in 50–60% faster data processing.  
+- Experience leading **cross-functional teams** and mentoring developers.  
+- Proven record of delivering projects that improve system reliability and scalability.  
+
+---
+
+## 📚 Continuous Learning
+- Exploring modern .NET Core practices, microservices, and cloud deployment models.  
+- Upskilling in **Azure**, **Power BI**, and **data analytics** to expand solution capabilities.  
+
+---
+
+## 📞 Contact
 📧 **Email:** your.email@example.com  
 🔗 **LinkedIn:** [linkedin.com/in/rashmita-shrestha](https://linkedin.com/in/rashmita-shrestha)  
 💼 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-📄 **Resume:** [Download Resume (PDF)](link-to-your-resume.pdf)
+📄 **Resume (PDF):** [Download Here](link-to-your-resume.pdf)  
 
 ---
 
-⭐ *This portfolio is built to showcase my work and learning in data engineering and data strategy. Feel free to connect for collaboration or consultation opportunities.*
+⭐ *I’m eager to contribute my .NET expertise to INTELITY’s high-end software projects — building innovative, performance-driven solutions that elevate the hospitality industry.*
+
