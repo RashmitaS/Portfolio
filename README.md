@@ -91,7 +91,8 @@ HTML, CSS, JavaScript
 📧 **Email:** rashmita0216@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/rashmita-shrestha](https://linkedin.com/in/rashmita-shrestha)  
 💼 **GitHub:** [https://github.com/RashmitaS/Portfolio.git)  
-📄 **Resume (PDF):** [./RashmitaCVDelphiSQLDotNet.pdf)  
+📄 **Resume (PDF):** [Download Here](./RashmitaCVDelphiSQLDotNet.pdf)
+
 
 ---
 
